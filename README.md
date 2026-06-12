@@ -4,8 +4,6 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/xoureldeen/Vectras-VM-Android)
 ![GitHub forks](https://img.shields.io/github/forks/xoureldeen/Vectras-VM-Android)
 [![Total downloads](https://img.shields.io/github/downloads/xoureldeen/Vectras-VM-Android/total)](https://github.com/xoureldeen/Vectras-VM-Android/releases)
-[![Discord server](https://img.shields.io/discord/911060166810681345)][link-discord]
-[![Telegram Channel][ico-telegram]][link-telegram]
 [![Software License][ico-license]](LICENSE)
 
 Welcome to Vectras VM! A virtual machine app for Android based on QEMU that lets you emulate various OSes including: [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/) [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](https://www.apple.com/macos) [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://www.android.com/).
