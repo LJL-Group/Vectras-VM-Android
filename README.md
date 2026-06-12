@@ -1,5 +1,4 @@
 # 🪴 Vectras VM
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/xoureldeen/Vectras-VM-Android)
 ![GitHub watchers](https://img.shields.io/github/watchers/xoureldeen/Vectras-VM-Android)
@@ -13,7 +12,6 @@ Welcome to Vectras VM! A virtual machine app for Android based on QEMU that lets
 
 If you need help, check out [our documentation](https://vectras.vercel.app/how.html). For quick answers, join the [Vectras Telegram group](http://t.me/vectras_vm_discussion). And here's a suggestion if you're new to Vectras VM:
 
-[![Tutorial for beginners](https://img.youtube.com/vi/L6ADe5aVp0Y/mqdefault.jpg)](https://www.youtube.com/watch?v=L6ADe5aVp0Y)
 
 ## 📱 Device Compatibility
 
@@ -154,15 +152,9 @@ Help support the project by contributing!
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xoureldeen/Vectras-VM-Android,AnBui2004/Vectras-VM-Emu-Android&type=date&legend=top-left)](https://www.star-history.com/#xoureldeen/Vectras-VM-Android&AnBui2004/Vectras-VM-Emu-Android&type=date&legend=top-left)
 
-[ico-telegram]: https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white
-[ico-discord]: https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white
 [ico-version]: https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white
 [ico-license]: https://img.shields.io/badge/License-GPL_v2-blue.svg
 [ico-buymeacoffee]: https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black
 [ico-ko-fi]: https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white
-
-[link-discord]: https://discord.gg/t8TACrKSk7
-[link-telegram]: https://t.me/vectras_os
 [link-repo]: https://github.com/xoureldeen/Vectras-VM-Android/
 [link-releases]: https://github.com/xoureldeen/Vectras-VM-Android/releases/
-[link-ko-fi]: https://ko-fi.com/vectrasvm
